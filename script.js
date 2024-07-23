@@ -6,7 +6,7 @@ function minDate(dates) {
     }
   }
   return min; */
-	return dates.slice().sort()[0]
+	return dates.sort()[0]
 }
 
 
